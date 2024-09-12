@@ -7,12 +7,9 @@ layout: default
 ## Exploratory Data Analysis
 
 ### Credit_CaseStudy
+A basic understanding of risk analytics in banking and financial services and understand how data 
+is used to minimise the risk of losing money while lending to customers.
 
-
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Project 1
 

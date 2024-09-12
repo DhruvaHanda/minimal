@@ -2,9 +2,13 @@
 layout: default
 ---
 
-**Data Science Portfolio**
+# Data Science Portfolio
+---
+## Exploratory Data Analysis
 
-[Link to another page](./another-page.html).
+### Credit_CaseStudy
+
+
 
 There should be whitespace between paragraphs.
 

@@ -16,7 +16,15 @@ is used to minimise the risk of losing money while lending to customers.
 <center><img src="assets/img/Credit.png"/></center>
 
 
+
+
+
 ## SQL - Analysis
 
 ### RSVP Movies Case Study
 In this assignment, I have worked on a movies dataset using SQL to extract exciting insights.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhruvaHanda/RSVP-SQL)
+<center><img src="assets/img/RSVP.jpg"/></center>
+
+

@@ -16,7 +16,7 @@ is used to minimise the risk of losing money while lending to customers.
 <center><img src="assets/img/Credit.png"/></center>
 
 
-
+---
 
 
 ## SQL - Analysis
@@ -29,7 +29,7 @@ In this assignment, I have worked on a movies dataset using SQL to extract excit
 
 
 
-
+---
 
 
 

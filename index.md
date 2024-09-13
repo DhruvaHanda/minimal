@@ -31,11 +31,16 @@ In this assignment, I have worked on a movies dataset using SQL to extract excit
 
 
 
+
+
+
+
+
 ## Machine Learning 
 
 ### Bike Sharing, Linear Regression Model
 In this assignment, I have worked on a movies dataset using SQL to extract exciting insights.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]
-(https://github.com/DhruvaHanda/Bike-Sharing))
+(https://github.com/DhruvaHanda/Bike-Sharing)
 <center><img src="assets/img/bike.webp"/></center>

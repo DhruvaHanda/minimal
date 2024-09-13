@@ -36,11 +36,17 @@ In this assignment, I have worked on a movies dataset using SQL to extract excit
 
 
 
+
+
+
+
+
+
 ## Machine Learning 
 
 ### Bike Sharing, Linear Regression Model
-In this assignment, I have worked on a movies dataset using SQL to extract exciting insights.
+Built a model for the predication of bike rental daily count based on the environmental and seasonal settings.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]
-(https://github.com/DhruvaHanda/Bike-Sharing)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhruvaHanda/Bike-Sharing)
 <center><img src="assets/img/bike.webp"/></center>

@@ -34,3 +34,15 @@ Built a model for the predication of bike rental daily count based on the enviro
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhruvaHanda/Bike-Sharing)
 <center><img src="assets/img/bike.webp"/></center>
+
+
+
+---
+
+## Power BI Dashboard
+
+### E-commerce sales_data_study
+Created interactive dashboard to track and analyze online sales data
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhruvaHanda/PowerBI-Dashboard)
+<center><img src="assets/img/ecommerce.webp"/></center>
